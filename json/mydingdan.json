@@ -1,0 +1,98 @@
+[
+	{
+		"goxinxi":{
+			"dizhi":{
+				"id": 1,
+				"shouname": "邹正",
+				"phone": 15611112222,
+				"dizhi": "河南省郑州市中原区枫阳街道长精路谦祥万和城A区7号楼"
+			},
+			"shijian":"2019-12-21日 12:00"
+		},
+		"heji": 190,
+		"shangpinlist":[{"name":"马尔伯勒生蚝500g","img":"/img/gouwuche/shenghao.png","jiage":"190","shuliang":1}],
+		"type": 1,
+		"tname":"待付款",
+		"time": "2019-12-22  12:00:00"
+	},
+	{
+		"goxinxi":{
+			"dizhi":{
+				"id": 2,
+				"shouname": "邹正",
+				"phone": 15611112222,
+				"dizhi": "河南省郑州市中原区枫阳街道长精路谦祥万和城A区7号楼"
+			},
+			"shijian":"2019-12-21日 12:00"
+		},
+		"heji": 190,
+		"shangpinlist":[{"name":"马尔伯勒生蚝500g","img":"/img/gouwuche/shenghao.png","jiage":"190","shuliang":1}],
+		"type": 2,
+		"tname":"待发货",
+		"time": "2019-12-22  12:00:00"
+	},
+	{
+		"goxinxi":{
+			"dizhi":{
+				"id": 3,
+				"shouname": "邹正",
+				"phone": 15611112222,
+				"dizhi": "河南省郑州市中原区枫阳街道长精路谦祥万和城A区7号楼"
+			},
+			"shijian":"2019-12-21日 12:00"
+		},
+		"heji": 190,
+		"shangpinlist":[{"name":"马尔伯勒生蚝500g","img":"/img/gouwuche/shenghao.png","jiage":"190","shuliang":1}],
+		"type": 3,
+		"tname":"配送中",
+		"time": "2019-12-22  12:00:00"
+	},
+	{
+		"goxinxi":{
+			"dizhi":{
+				"id": 4,
+				"shouname": "邹正",
+				"phone": 15611112222,
+				"dizhi": "河南省郑州市中原区枫阳街道长精路谦祥万和城A区7号楼"
+			},
+			"shijian":"2019-12-21日 12:00"
+		},
+		"heji": 190,
+		"shangpinlist":[{"name":"马尔伯勒生蚝500g","img":"/img/gouwuche/shenghao.png","jiage":"190","shuliang":1}],
+		"type": 4,
+		"tname":"待评价",
+		"time": "2019-12-22  12:00:00"
+	},
+	{
+		"goxinxi":{
+			"dizhi":{
+				"id": 5,
+				"shouname": "邹正",
+				"phone": 15611112222,
+				"dizhi": "河南省郑州市中原区枫阳街道长精路谦祥万和城A区7号楼"
+			},
+			"shijian":"2019-12-21日 12:00"
+		},
+		"heji": 190,
+		"shangpinlist":[{"name":"马尔伯勒生蚝500g","img":"/img/gouwuche/shenghao.png","jiage":"190","shuliang":1}],
+		"type": 4,
+		"tname":"交易完成",
+		"time": "2019-12-22  12:00:00"
+	},
+	{
+		"goxinxi":{
+			"dizhi":{
+				"id": 6,
+				"shouname": "邹正",
+				"phone": 15611112222,
+				"dizhi": "河南省郑州市中原区枫阳街道长精路谦祥万和城A区7号楼"
+			},
+			"shijian":"2019-12-21日 12:00"
+		},
+		"heji": 190,
+		"shangpinlist":[{"name":"马尔伯勒生蚝500g","img":"/img/gouwuche/shenghao.png","jiage":"190","shuliang":1}],
+		"type": 4,
+		"tname":"交易关闭",
+		"time": "2019-12-22  12:00:00"
+	}
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "img": "/img/gouwuche/shenghao.png",
+    "name": "马尔伯勒生蚝500g",
+    "jiage": 190,
+    "number": 1
+  },
+  {
+    "id": 2,
+    "img": "/img/gouwuche/shenghao.png",
+    "name": "马尔伯勒生蚝500g",
+    "jiage": 180,
+    "number": 1
+  },
+  {
+    "id": 3,
+    "img": "/img/gouwuche/shenghao.png",
+    "name": "马尔伯勒生蚝500g",
+    "jiage": 200,
+    "number": 1
+  }
+]

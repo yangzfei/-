@@ -1,0 +1,32 @@
+[
+{
+  "id":1,
+  "dianzan": 111,
+  "pinglun": [{
+    "userimg": "/img/chihu/pinglun/pl1.png",
+    "username": "渴望幸福",
+    "date": "2019-03-31",
+    "pinglunnr": "这道菜真的好好吃，推荐的食材也非常新鲜的"
+    },
+    {
+      "userimg": "/img/chihu/pinglun/pl2.png",
+      "username": "木子",
+      "date": "2019-03-29",
+      "pinglunnr": "超喜欢吃这道菜，朋友尝了都说好吃"
+    },
+    {
+      "userimg": "/img/chihu/pinglun/pl3.png",
+      "username": "威风堂堂",
+      "date": "2019-03-26",
+      "pinglunnr": "试着做了一下，挺不错的"
+    }
+  ],
+  "shoucang": 111
+},
+  {
+    "id":6,
+    "dianzan": 120,
+    "pinglun": [],
+    "shoucang": 120
+  }
+]
