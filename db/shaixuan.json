@@ -1,0 +1,81 @@
+{"sales":[
+	{   
+		"id":"1",
+		"img":"/img/haixian/xia.png",
+		"name":"原膳加拿大北极甜虾熟冻500g",
+		"amount":"500g/份",
+		"price":"41.9",
+		"sold":"896份"
+	},
+    	{   
+			"id":"2",
+			"img":"/img/haixian/xia.png",
+			"name":"加拿大熟冻波士顿龙虾400g",
+			"amount":"400g/包",
+			"price":"135",
+			"sold":"834份"
+		},
+		{
+			"id":"3",
+			"img":"/img/haixian/xia.png",
+			"name":"鲜美来火锅对虾100g",
+			"amount":"100g/袋",
+			"price":"29.8",
+			"sold":"789份"
+		},
+		{
+			"id":"4",
+			"img":"/img/haixian/xia.png",
+			"name":"原膳舟山竹节虾(8-10条)350g",
+			"amount":"350g/份",
+			"price":"128.0",
+			"sold":"733份"
+		},
+		{
+			"id":"5",
+			"img":"/img/haixian/xia.png",
+			"name":"冻黑虎虾800g",
+			"amount":"800g/份",
+			"price":"139.0",
+			"sold":"640份"
+		}
+],
+  "news":[
+	  {
+	  	"id":"1",
+		"img":"/img/haixian/xia.png",
+	  	"name":"原膳加拿大北极甜虾500g",
+	  	"amount":"500g/份",
+	  	"price":"41.9",
+	  	"sold":"896份"
+	  },
+	  	{
+			"id":"2",
+			"img":"/img/haixian/xia.png",
+	  		"name":"加拿大熟冻波士顿龙虾400g",
+	  		"amount":"400g/包",
+	  		"price":"135",
+	  		"sold":"834份"
+	  	},
+	  	{
+			"id":"3",
+			"img":"/img/haixian/xia.png",
+	  		"name":"鲜美来火锅对虾100g",
+	  		"amount":"100g/袋",
+	  		"price":"29.8",
+	  		"sold":"789份"
+	  	},
+	  	{
+			"id":"4",
+			"img":"/img/haixian/xia.png",
+	  		"name":"原膳舟山竹节虾(8-10条)350g",
+	  		"amount":"350g/份",
+	  		"price":"128.0",
+	  		"sold":"733份"
+	  	}
+  ]
+	
+	
+	
+	
+}

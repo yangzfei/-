@@ -1,0 +1,28 @@
+{"shangpinxiangqing":
+	    {
+			"id":"1",
+			 "img":"/img/xiangqingye/banner.png",
+			 "name":"美早大樱桃1000g",
+			 "lable":"新鲜水果    现摘现发",
+			 "money":"98.8",
+			 "discount":"188.0",
+			 "field":"辽宁省大连市",
+			 "profile":"河南省郑州市中原区",
+			 "store":"有货"
+		},
+ "pinglun":[
+	 {
+		 "id":"1",
+		 "img":"/img/xiangqingye/touxiang1.png",
+		 "name":"渴望幸福",
+		 "content":"樱桃收到了,很清甜"
+	 },
+	 {
+		 "id":"2",
+		 "img":"/img/xiangqingye/touxiang2.png",
+		 "name":"156****3465",
+		 "content":"对商品很满意"
+	 }
+ ]
+	
+}

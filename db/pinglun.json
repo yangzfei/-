@@ -1,0 +1,94 @@
+{"pinglun":[
+	{
+	"id":"1",
+	"hard":"/img/xiangqingye/touxiang1.png",
+	"name":"渴望幸福",
+	"grade":"5.0分",
+	"content":"樱桃收到了, 很清甜。",
+	"img":["/img/xiangqingye/pinglun1.png","/img/xiangqingye/pinglun2.png","/img/xiangqingye/pinglun3.png"],
+	"day":"2019-03-21"
+	},
+	{
+	"id":"2",
+	"hard":"/img/xiangqingye/touxiang2.png",
+	"name":"马小姐",
+	"grade":"5.0分",
+	"content":"商品很好 很满意",
+	"img":null,
+	"day":"2019-03-21"
+	},
+	{
+	"id":"3",
+	"hard":"/img/xiangqingye/touxiang3.png",
+	"name":"黄晓帅",
+	"grade":"5.0分",
+	"content":"给女朋友送的,说很喜欢不错。除了发货晚一点点其他的都挺完美的,并且价格也不错。色泽非常赞,女朋友和他老弟都很喜欢,超级新鲜,个头超级大,女朋友说第一口下去真甜,再吃下去,感觉好甜,感觉很快就会吃光,以后会经常来光顾的啊！",
+	"img":null,
+	"day":"2019-03-21"
+	},
+	{
+	"id":"1",
+	"hard":"/img/xiangqingye/touxiang1.png",
+	"name":"渴望幸福",
+	"grade":"5.0分",
+	"content":"樱桃收到了, 很清甜。",
+	"img":["/img/xiangqingye/pinglun1.png","/img/xiangqingye/pinglun2.png","/img/xiangqingye/pinglun3.png"],
+	"day":"2019-03-21"
+	},
+	{
+	"id":"2",
+	"hard":"/img/xiangqingye/touxiang2.png",
+	"name":"马小姐",
+	"grade":"5.0分",
+	"content":"商品很好 很满意",
+	"img":null,
+	"day":"2019-03-21"
+	},
+	{
+	"id":"3",
+	"hard":"/img/xiangqingye/touxiang3.png",
+	"name":"黄晓帅",
+	"grade":"5.0分",
+	"content":"给女朋友送的,说很喜欢不错。除了发货晚一点点其他的都挺完美的,并且价格也不错。色泽非常赞,女朋友和他老弟都很喜欢,超级新鲜,个头超级大,女朋友说第一口下去真甜,再吃下去,感觉好甜,感觉很快就会吃光,以后会经常来光顾的啊！",
+	"img":null,
+	"day":"2019-03-21"
+	}
+],
+"pingjia":["新鲜十足","色泽俱佳","味道鲜美",	"口感俱佳","水分充足"],
+"youtupinglun":[
+	{
+	"id":"1",
+	"hard":"/img/xiangqingye/touxiang1.png",
+	"name":"渴望幸福",
+	"grade":"5.0分",
+	"content":"樱桃收到了, 很清甜。",
+	"img1":"/img/xiangqingye/pinglun1.png",
+	"img2":"/img/xiangqingye/pinglun2.png",
+    "img3":"/img/xiangqingye/pinglun3.png",
+	"day":"2019-03-21"
+	},
+	{
+	"id":"1",
+	"hard":"/img/xiangqingye/touxiang1.png",
+	"name":"渴望幸福",
+	"grade":"5.0分",
+	"content":"樱桃收到了, 很清甜。",
+    "img1":"/img/xiangqingye/pinglun1.png",
+	"img2":"/img/xiangqingye/pinglun2.png",
+    "img3":"/img/xiangqingye/pinglun3.png",
+	"day":"2019-03-21"
+	},
+	{
+	"id":"1",
+	"hard":"/img/xiangqingye/touxiang1.png",
+	"name":"渴望幸福",
+	"grade":"5.0分",
+	"content":"樱桃收到了, 很清甜。",
+    "img1":"/img/xiangqingye/pinglun1.png",
+    "img2":"/img/xiangqingye/pinglun2.png",
+    "img3":"/img/xiangqingye/pinglun3.png",
+	"day":"2019-03-21"
+	}
+]
+	
+}

@@ -1,0 +1,25 @@
+{
+	"wodeguanzhu":[
+		{
+			"id":"1",
+			"img":"/img/wodeguanzhu/touxiang1.png",
+			"name":"路小天",
+			"signature":"这个人很懒,什么也没留下！",
+			"wenzhang":"5篇文章"
+		},
+		{
+			"id":"2",
+			"img":"/img/wodeguanzhu/touxiang2.png",
+			"name":"时时时",
+			"signature":"吃货走天下！",
+			"wenzhang":"20篇文章"
+		},
+		{
+			"id":"3",
+			"img":"/img/wodeguanzhu/touxiang3.png",
+			"name":"嘤嘤嘤",
+			"signature":"嘤嘤嘤~嘤嘤嘤~~~ -.-",
+			"wenzhang":"10篇文章"
+		}
+	]
+}
